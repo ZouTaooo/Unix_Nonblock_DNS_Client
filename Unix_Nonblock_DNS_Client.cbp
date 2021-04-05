@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Unix_Nonblock_DNS_Client"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TEST">
+				<Option output="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/TEST" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 TEST"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TEST/fast">
+				<Option output="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/TEST" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 TEST/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Unix_Nonblock_DNS_Client">
+				<Option output="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Unix_Nonblock_DNS_Client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 Unix_Nonblock_DNS_Client"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Unix_Nonblock_DNS_Client/fast">
+				<Option output="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Unix_Nonblock_DNS_Client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 Unix_Nonblock_DNS_Client/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/TEST.cpp">
+			<Option target="TEST"/>
+		</Unit>
+		<Unit filename="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/main.cpp">
+			<Option target="Unix_Nonblock_DNS_Client"/>
+		</Unit>
+		<Unit filename="/mnt/d/CLionProject/Unix_Nonblock_DNS_Client/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
